@@ -25,17 +25,7 @@ namespace Instagram.Api.Controllers
         [HttpPost("Create")]
         public Task<User> Create(User user)
         {
-            //var entity = await _userService.CreateAsync(userView);
-
-            //User user = new User()
-            //{
-            //    Id = entity.Id,
-            //    UserName = entity.UserName,
-            //    Password = entity.Password,
-            //    Email = entity.Email,
-            //    PhoneNumber = entity.PhoneNumber,
-            //    Bio = entity.Bio,
-            //};
+            
 
             return _userService.CreateAsync(user);
         }
@@ -47,9 +37,9 @@ namespace Instagram.Api.Controllers
         }
 
         [HttpGet("All")]
-        public Task<IQueryable<User>> GetAll(Expression<Func<User, bool>> expression = null)
+        public Task<IQueryable<User>> GetAll()
         {
-            return _userService.GetAllAsync(expression);
+            return _userService.GetAllAsync();
         }
 
         [HttpPatch("Update")] 

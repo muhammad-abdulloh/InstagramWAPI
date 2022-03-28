@@ -11,7 +11,7 @@ namespace Instagram.Service.Interfaces
 {
     public interface IUserService
     {
-        Task<IQueryable<User>> GetAllAsync(Expression<Func<User, bool>> expression);
+        Task<IQueryable<User>> GetAllAsync(Expression<Func<User, bool>> expression = null);
         Task<User> GetAsync(Expression<Func<User, bool>> expression);
         Task<bool> DeleteAsync(Expression<Func<User, bool>> expression);
         Task<User> UpdateAsync(User user);
