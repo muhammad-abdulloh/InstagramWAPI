@@ -34,7 +34,7 @@ namespace Instagram.Api
         {
             services.AddDbContext<InstagramDbContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("ProjectDemoContext"));
+                options.UseNpgsql(Configuration.GetConnectionString("ProjectDemoContext"));
             });
 
             services.AddControllers();

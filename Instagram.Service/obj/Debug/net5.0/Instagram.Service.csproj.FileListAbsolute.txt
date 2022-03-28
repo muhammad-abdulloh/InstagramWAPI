@@ -15,3 +15,20 @@ D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Service\bin\Debug\
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Service\bin\Debug\net5.0\Instagram.Data.pdb
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Service\bin\Debug\net5.0\Instagram.Domain.pdb
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Service\obj\Debug\net5.0\Instagram.Service.csproj.CopyComplete
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Service.deps.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Service.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Service.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Data.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Domain.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Data.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\bin\Debug\net5.0\Instagram.Domain.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.csproj.AssemblyReference.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.AssemblyInfoInputs.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.AssemblyInfo.cs
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.csproj.CoreCompileInputs.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.csproj.CopyComplete
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\refint\Instagram.Service.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\Instagram.Service.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Service\obj\Debug\net5.0\ref\Instagram.Service.dll

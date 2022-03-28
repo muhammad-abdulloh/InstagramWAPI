@@ -65,3 +65,47 @@ D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Api\bin\Debug\net5
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Api\bin\Debug\net5.0\Instagram.Service.dll
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Api\bin\Debug\net5.0\Instagram.Service.pdb
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.csproj.AssemblyReference.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.AssemblyInfoInputs.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.AssemblyInfo.cs
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.csproj.CoreCompileInputs.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\refint\Instagram.Api.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Api.exe
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Api.deps.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Api.runtimeconfig.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Api.runtimeconfig.dev.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Api.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Api.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Data.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Domain.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Service.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Data.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Service.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\bin\Debug\net5.0\Instagram.Domain.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\scopedcss\bundle\Instagram.Api.styles.css
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\staticwebassets\Instagram.Api.StaticWebAssets.Manifest.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.RazorTargetAssemblyInfo.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.csproj.CopyComplete
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\Instagram.Api.genruntimeconfig.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Api\obj\Debug\net5.0\ref\Instagram.Api.dll

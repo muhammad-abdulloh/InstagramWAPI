@@ -16,3 +16,21 @@ D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Data\obj\Debug\net
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Data\obj\Debug\net5.0\Instagram.Data.pdb
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Data\obj\Debug\net5.0\Instagram.Data.genruntimeconfig.cache
 D:\Visual Studio Projects\ASPNET Projects\Instagram\Instagram.Data\obj\Debug\net5.0\ref\Instagram.Data.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Data.deps.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Data.runtimeconfig.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Data.runtimeconfig.dev.json
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Data.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Data.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Domain.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\bin\Debug\net5.0\Instagram.Domain.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.csproj.AssemblyReference.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.AssemblyInfoInputs.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.AssemblyInfo.cs
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.csproj.CoreCompileInputs.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.csproj.CopyComplete
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\refint\Instagram.Data.dll
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.pdb
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\Instagram.Data.genruntimeconfig.cache
+C:\Users\DotNetPC\Source\Repos\InstagramWAPI\Instagram.Data\obj\Debug\net5.0\ref\Instagram.Data.dll
