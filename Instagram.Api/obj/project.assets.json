@@ -6030,11 +6030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Api\\Instagram.Api.csproj",
+      "projectUniqueName": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Api\\Instagram.Api.csproj",
       "projectName": "Instagram.Api",
-      "projectPath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Api\\Instagram.Api.csproj",
+      "projectPath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Api\\Instagram.Api.csproj",
       "packagesPath": "C:\\Users\\DotNetPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Api\\obj\\",
+      "outputPath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6055,11 +6055,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Data\\Instagram.Data.csproj": {
-              "projectPath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Data\\Instagram.Data.csproj"
+            "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Data\\Instagram.Data.csproj": {
+              "projectPath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Data\\Instagram.Data.csproj"
             },
-            "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Service\\Instagram.Service.csproj": {
-              "projectPath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Service\\Instagram.Service.csproj"
+            "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Service\\Instagram.Service.csproj": {
+              "projectPath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Service\\Instagram.Service.csproj"
             }
           }
         }

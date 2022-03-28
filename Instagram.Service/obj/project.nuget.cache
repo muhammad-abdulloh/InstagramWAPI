@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4nvCKDs4y35AACwsVX3HFpp6ftl3shQdkRkBgvKQo/M8YYXIyQg5d1OJZ5Suo6eFVGQQi0UmUJZ4IHIfCHEEaQ==",
+  "dgSpecHash": "fjNB6xHuHMUn+gEg2Uyd/rpuahuzLAT0seSzY/vv1R83DE6sc0ygYdHtuuuIKjjkKM1kvWKLCLIKygZb0ih5hQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Service\\Instagram.Service.csproj",
+  "projectFilePath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Service\\Instagram.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DotNetPC\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DotNetPC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

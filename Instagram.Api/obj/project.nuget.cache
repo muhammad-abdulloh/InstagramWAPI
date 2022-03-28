@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q69J/Wgzfgk6yIOJ2UqbOmx99QUg2pzQPz6Rsw6q3uYMNlwnak+mDlLezq+utLRMtvcFl6HRRB+uqlfedSearA==",
+  "dgSpecHash": "TQd/C5nZysypU9ZRu4J9wyYO3Qh1Ai9eOuKKPAWGDqME+m1ejQd45Rup0u0qn6/5ZGDSB05CYigFcONbKEoLbw==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Api\\Instagram.Api.csproj",
+  "projectFilePath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Api\\Instagram.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DotNetPC\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DotNetPC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

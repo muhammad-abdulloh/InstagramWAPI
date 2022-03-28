@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MTR0Z7IJ00gMaZHdg+R1UAd90pSneeDWf0pf/esx9eJRPf3sQQjOvHFcdFmyIDl7KMJIL4VyzbFCXwoq7QOqBg==",
+  "dgSpecHash": "pTxEmNF+EQA/h18aiAHe5pU4sU/6LCUcOWzrAokv63pqlRxFOuSjHDFRloY25FQy1zvAjD3mt/+BArlcVp1QRw==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\ASPNET Projects\\Instagram\\Instagram.Domain\\Instagram.Domain.csproj",
+  "projectFilePath": "C:\\Users\\DotNetPC\\Source\\Repos\\InstagramWAPI\\Instagram.Domain\\Instagram.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
