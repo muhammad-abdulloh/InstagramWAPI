@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Instagram.Data\Instagram.Data.csproj" />
+    <ProjectReference Include="..\Instagram.Domain\Instagram.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
